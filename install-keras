@@ -1,0 +1,3 @@
+Install keras using anaconda in OS X
+
+`$ conda create -n tf python=2.7 keras tensorflow pandas matplotlib jupyter nb_conda`
